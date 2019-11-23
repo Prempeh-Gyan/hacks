@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group 'com.premps.hacks'
+version '1.0'
+
+sourceCompatibility = 11
+
+repositories {
+    mavenCentral()
+}
+
+test {
+    useJUnitPlatform()
+}
+
+dependencies {
+    testCompile 'org.junit.jupiter:junit-jupiter-engine:5.5.2'
+    testCompile 'org.junit.jupiter:junit-jupiter-api:5.5.2'
+}
