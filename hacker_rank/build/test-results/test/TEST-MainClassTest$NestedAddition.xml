@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainClassTest$NestedAddition" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-11-23T11:44:06" hostname="nbgyan" time="0.027">
+  <properties/>
+  <testcase name="testRepeatedly(RepetitionInfo)[1]" classname="MainClassTest$NestedAddition" time="0.016"/>
+  <testcase name="testRepeatedly(RepetitionInfo)[2]" classname="MainClassTest$NestedAddition" time="0.001"/>
+  <testcase name="testRepeatedly(RepetitionInfo)[3]" classname="MainClassTest$NestedAddition" time="0.001"/>
+  <testcase name="testRepeatedly(RepetitionInfo)[4]" classname="MainClassTest$NestedAddition" time="0.001"/>
+  <testcase name="testRepeatedly(RepetitionInfo)[5]" classname="MainClassTest$NestedAddition" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

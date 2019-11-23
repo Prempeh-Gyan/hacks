@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainClassTest$FrequencyOfChars" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-11-23T11:44:06" hostname="nbgyan" time="0.007">
+  <properties/>
+  <testcase name="testStringWithSameChars()" classname="MainClassTest$FrequencyOfChars" time="0.004"/>
+  <testcase name="testStringWithDifferentChars()" classname="MainClassTest$FrequencyOfChars" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

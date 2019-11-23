@@ -1,0 +1,6 @@
+rootProject.name = 'java-test-project-gdl'
+includeFlat 'joi-energy-java-gdl'
+findProject(':joi-energy-java-gdl')?.name = 'tw-energy'
+includeFlat 'joi-energy-java'
+findProject(':joi-energy-java')?.name = 'tw-energy'
+

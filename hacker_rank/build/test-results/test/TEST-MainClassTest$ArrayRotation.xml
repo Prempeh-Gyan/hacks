@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainClassTest$ArrayRotation" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-11-23T11:44:06" hostname="nbgyan" time="0.006">
+  <properties/>
+  <testcase name="equalRotations()" classname="MainClassTest$ArrayRotation" time="0.002"/>
+  <testcase name="moreRotations()" classname="MainClassTest$ArrayRotation" time="0.001"/>
+  <testcase name="lessRotations()" classname="MainClassTest$ArrayRotation" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

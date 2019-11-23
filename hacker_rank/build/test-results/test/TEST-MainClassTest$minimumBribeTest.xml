@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainClassTest$minimumBribeTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-11-23T11:44:06" hostname="nbgyan" time="0.013">
+  <properties/>
+  <testcase name="switchMoreThanTwoSpaces()" classname="MainClassTest$minimumBribeTest" time="0.001"/>
+  <testcase name="switchTwoSpaces()" classname="MainClassTest$minimumBribeTest" time="0.001"/>
+  <testcase name="switch4Space()" classname="MainClassTest$minimumBribeTest" time="0.001"/>
+  <testcase name="switch5Space()" classname="MainClassTest$minimumBribeTest" time="0.005"/>
+  <testcase name="switchOneSpace()" classname="MainClassTest$minimumBribeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
